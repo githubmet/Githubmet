@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_names">
+        <item>P001CallAndConverter</item>
+        <item>P002ListRepos</item>
+        <item>P003Stars</item>
+        <item>P004Followers</item>
+        <item>P005Following</item>
+    </string-array>
+
+</resources>
